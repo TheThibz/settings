@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Assets\Plugins\UnityEditorMemo\Editor\Scripts\Data\UnityEditorMemoSaveData.cs'" />
-    <option name="defaultScopeName" value="File '...\Assets\Plugins\UnityEditorMemo\Editor\Scripts\Data\UnityEditorMemoSaveData.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Assets\Plugins\UnityEditorMemo\Editor\Scripts\Data\UnityEditorMemoSaveData.cs'" />
+    <option name="customScope" value="Project 'UnityEditorMemo.Editor'" />
+    <option name="defaultScopeName" value="Project 'UnityEditorMemo.Editor'" />
+    <option name="SEARCH_SCOPE" value="Project 'UnityEditorMemo.Editor'" />
   </component>
 </application>
