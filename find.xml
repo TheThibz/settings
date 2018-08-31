@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Assets\__Epistory2\Scripts\Enemies\Reactions\ReactionRemoveElement.cs'" />
-    <option name="defaultScopeName" value="File '...\Assets\__Epistory2\Scripts\Enemies\Reactions\ReactionRemoveElement.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Assets\__Epistory2\Scripts\Enemies\Reactions\ReactionRemoveElement.cs'" />
+    <option name="customScope" value="File '...\Assets\__Epistory2\Scripts\Interactables\Object\InteractableInert.cs'" />
+    <option name="defaultScopeName" value="File '...\Assets\__Epistory2\Scripts\Interactables\Object\InteractableInert.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Assets\__Epistory2\Scripts\Interactables\Object\InteractableInert.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
