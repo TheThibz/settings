@@ -13,5 +13,8 @@
     <pattern pattern="\bNotImplementedException\b" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern icon="important" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO_Nano)(\W|$)(.*)" />
+    <filter name="nano only">
+      <pattern index="2" />
+    </filter>
   </component>
 </application>
