@@ -13,6 +13,13 @@
     <pattern pattern="\bNotImplementedException\b" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
-    <filter name="nano only" />
+    <pattern useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO_Nano)(\W|$)(.*)">
+      <option name="FOREGROUND" value="b24cd4" />
+      <option name="FONT_TYPE" value="1" />
+      <option name="ERROR_STRIPE_COLOR" value="b24cd4" />
+    </pattern>
+    <filter name="nano only">
+      <pattern index="3" />
+    </filter>
   </component>
 </application>
