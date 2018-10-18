@@ -10,9 +10,16 @@
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\bNotImplementedException\b" />
+    <pattern useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO_Nano)(\W|$)(.*)">
+      <option name="FOREGROUND" value="b24cd4" />
+      <option name="FONT_TYPE" value="1" />
+      <option name="ERROR_STRIPE_COLOR" value="b24cd4" />
+    </pattern>
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
-    <pattern icon="important" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO_Nano)(\W|$)(.*)" />
-    <filter name="nano only" />
+    <pattern pattern="\bNotImplementedException\b" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
+    <filter name="nano only">
+      <pattern index="0" />
+    </filter>
   </component>
 </application>
