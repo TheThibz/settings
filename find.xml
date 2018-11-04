@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Assets\__Epistory2\Scripts\Enemies\EnemyReactionToElement.cs'" />
-    <option name="defaultScopeName" value="File '...\Assets\__Epistory2\Scripts\Enemies\EnemyReactionToElement.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Assets\__Epistory2\Scripts\Enemies\EnemyReactionToElement.cs'" />
+    <option name="customScope" value="File '...\Assets\__Epistory2\Scripts\Helpers\CellMeshGenerator.cs'" />
+    <option name="defaultScopeName" value="File '...\Assets\__Epistory2\Scripts\Helpers\CellMeshGenerator.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Assets\__Epistory2\Scripts\Helpers\CellMeshGenerator.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
