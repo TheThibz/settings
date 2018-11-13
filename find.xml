@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Assets\__Epistory2\Scripts\Outcomes\OutcomeInstantiateGameObject.cs'" />
-    <option name="defaultScopeName" value="File '...\Assets\__Epistory2\Scripts\Outcomes\OutcomeInstantiateGameObject.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Assets\__Epistory2\Scripts\Outcomes\OutcomeInstantiateGameObject.cs'" />
+    <option name="customScope" value="File '...\Assets\__Epistory2\Scripts\Enemies\DrooperEnemy.cs'" />
+    <option name="defaultScopeName" value="File '...\Assets\__Epistory2\Scripts\Enemies\DrooperEnemy.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Assets\__Epistory2\Scripts\Enemies\DrooperEnemy.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
