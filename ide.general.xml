@@ -1,6 +1,7 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
+    <option name="processCloseConfirmation" value="DISCONNECT" />
     <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>
@@ -12,6 +13,5 @@
     <entry key="ide.tooltip.initialDelay.highlighter" value="0" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="ide.mac.file.chooser.native" value="false" />
-    <entry key="ide.svg.icon" value="true" />
   </component>
 </application>
