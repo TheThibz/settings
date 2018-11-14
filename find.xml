@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Assets\__Epistory2\Scripts\Automata\Cell.cs'" />
-    <option name="defaultScopeName" value="File '...\Assets\__Epistory2\Scripts\Automata\Cell.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Assets\__Epistory2\Scripts\Automata\Cell.cs'" />
+    <option name="customScope" value="File '...\Assets\__Epistory2\Scripts\Automata\AutomataManager.cs'" />
+    <option name="defaultScopeName" value="File '...\Assets\__Epistory2\Scripts\Automata\AutomataManager.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Assets\__Epistory2\Scripts\Automata\AutomataManager.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
