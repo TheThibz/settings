@@ -1,1 +1,9 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <XML>
+    <option name="XML_ATTRIBUTE_WRAP" value="0" />
+    <option name="XML_TEXT_WRAP" value="0" />
+    <option name="XML_KEEP_BLANK_LINES" value="0" />
+    <option name="XML_ALIGN_ATTRIBUTES" value="false" />
+  </XML>
+</code_scheme>
