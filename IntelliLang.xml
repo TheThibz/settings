@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="C#" injector-id="xml">
+      <display-name>triggers</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("triggers"))]]></place>
+    </injection>
+  </component>
+</application>
